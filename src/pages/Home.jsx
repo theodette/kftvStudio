@@ -9,7 +9,7 @@ function Home() {
 
       {/* Navbar */}
       <div className="relative flex justify-between items-center z-20 px-4 sm:px-6 md:px-20 py-4">
-        <img className="h-20 w-20 sm:h-24 sm:w-24 md:h-32 md:w-32 rounded-full" src="/logo.png" alt="Logo" />
+        <img className="h-20 w-20 sm:h-24 sm:w-24 md:h-32 md:w-32 rounded-full" src="logo.png" alt="Logo" />
 
         <Link
           to="/services"

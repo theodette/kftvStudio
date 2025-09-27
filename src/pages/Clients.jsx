@@ -3,19 +3,19 @@ import { motion } from "framer-motion";
 
 function Clients() {
   const clients = [
-    "/1.png",
-    "/3.png",
-    "/4.jpeg",
-    "/5.jpeg",
-    "/12.png",
-    "/10.png",
-    "/13.jpeg",
-    "/9.jpeg",
-    "/8.png",
-    "/7.png",
-    "/6.png",
-    "/2.png",
-    "/11.png",
+    "1.png",
+    "3.png",
+    "4.jpeg",
+    "5.jpeg",
+    "12.png",
+    "10.png",
+    "13.jpeg",
+    "9.jpeg",
+    "8.png",
+    "7.png",
+    "6.png",
+    "2.png",
+    "11.png",
   ];
 
   return (

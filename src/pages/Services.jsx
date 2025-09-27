@@ -34,7 +34,7 @@ function Services() {
           <div className="flex justify-between items-center h-20">
             {/* Logo */}
             <div className="flex-shrink-0">
-              <img className="h-16 w-16 md:h-20 md:w-20 rounded-full" src="/logo.png" alt="Logo" />
+              <img className="h-16 w-16 md:h-20 md:w-20 rounded-full" src="logo.png" alt="Logo" />
             </div>
 
             {/* Desktop Menu */}

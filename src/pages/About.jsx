@@ -36,7 +36,7 @@ export default function About() {
             >
               <img
                 className="h-32 sm:h-36 w-full object-cover"
-                src={`/public/${num}.jpg`}
+                src={`${num}.jpg`}
                 alt={`KFTV Studio ${num}`}
               />
             </motion.div>
